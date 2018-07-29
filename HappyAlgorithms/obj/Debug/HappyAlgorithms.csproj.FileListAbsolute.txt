@@ -1,0 +1,14 @@
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/bin/Debug/HappyAlgorithms.exe.config
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/bin/Debug/HappyAlgorithms.exe
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/bin/Debug/HappyAlgorithms.pdb
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.csprojResolveAssemblyReference.cache
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.csproj.CoreCompileInputs.cache
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.exe
+C:/Users/Ян/source/repos/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.pdb
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/bin/Debug/HappyAlgorithms.exe.config
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/bin/Debug/HappyAlgorithms.exe
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/bin/Debug/HappyAlgorithms.pdb
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.csprojResolveAssemblyReference.cache
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.csproj.CoreCompileInputs.cache
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.exe
+/Users/an/Desktop/HappyAlgorithms/HappyAlgorithms/obj/Debug/HappyAlgorithms.pdb
